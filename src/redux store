@@ -1,0 +1,8 @@
+<Provider store={store}>
+          <BrowserRouter>
+              <Routes>
+                  <Route path='/' element={<App />} />
+                  <Route path='alink' element={<AnotherAccount />} />
+              </Routes>
+          </BrowserRouter>
+      </Provider>
