@@ -1,6 +1,5 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Users can MINT, SELL,VIEW, BUY NFTs.
 
 ## Technology Stack & Tools
 - Solidity (Writing Smart Contract)
@@ -40,6 +39,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Dappuniversity [Decentratwitter](https://github.com/dappuniversity/decentratwitter/tree/main/contracts).
 - Dappuniversity [NFT Marketplace](https://github.com/dappuniversity/nft_marketplace).
 
-
-
-### Code Splitting
