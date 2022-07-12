@@ -37,9 +37,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Reference
 
-Dappuniversity [Decentratwitter](https://github.com/dappuniversity/decentratwitter/tree/main/contracts).
-Dappuniversity [Decentratwitter](https://github.com/dappuniversity/nft_marketplace).
+- Dappuniversity [Decentratwitter](https://github.com/dappuniversity/decentratwitter/tree/main/contracts).
+- Dappuniversity [NFT Marketplace](https://github.com/dappuniversity/nft_marketplace).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 ### Code Splitting
