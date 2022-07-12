@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Technology Stack & Tools
+- Solidity (Writing Smart Contract)
+- Javascript (React & Testing)
+- Ethers (Blockchain Interaction)
+- Truffle (Development Framework)
+- Ipfs (Metadata storage)
+- React routers (Navigational components)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
