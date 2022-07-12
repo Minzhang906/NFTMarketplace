@@ -10,6 +10,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Ipfs (Metadata storage)
 - React routers (Navigational components)
 
+## Requirements For Initial Setup
+- Install NodeJS, should work with any node version below 16.5.0
+- Install Truffle
+- Install Ganache
+- Install metamask and create account
+
+## Setting Up
+
+
 
 ## Available Scripts
 
